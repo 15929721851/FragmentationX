@@ -7,7 +7,7 @@ import com.eightbitlab.bottomnavigationbar.BottomNavigationBar;
 
 import androidx.annotation.Nullable;
 import me.liam.fragmentation.R;
-import me.liam.support.SupportActivity;
+import com.fragmentation.lib.support.SupportActivity;
 
 /**
  * Create on 2020/1/6.

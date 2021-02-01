@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 
 import androidx.annotation.Nullable;
-import androidx.appcompat.app.AppCompatActivity;
-import me.liam.support.SupportActivity;
+
+import com.fragmentation.lib.support.SupportActivity;
 import viewpager.ViewPagerActivity;
 import wechat.WeChatActivity;
 import zhihu.ZhiHuActivity;

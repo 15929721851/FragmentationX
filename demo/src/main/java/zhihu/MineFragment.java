@@ -8,10 +8,10 @@ import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import me.liam.anim.ClassicVerticalAnim;
+import com.fragmentation.lib.anim.ClassicVerticalAnim;
 import me.liam.fragmentation.R;
 import me.liam.fragmentation.SignleFragment;
-import me.liam.support.SupportFragment;
+import com.fragmentation.lib.support.SupportFragment;
 import wechat.SettingsFragment;
 
 /**

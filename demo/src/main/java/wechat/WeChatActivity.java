@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import androidx.annotation.Nullable;
 import me.liam.fragmentation.R;
-import me.liam.support.SupportActivity;
+import com.fragmentation.lib.support.SupportActivity;
 
 /**
  * Created by Augustine on 2019/12/31.

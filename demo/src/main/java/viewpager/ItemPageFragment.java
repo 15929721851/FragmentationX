@@ -10,7 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import me.liam.fragmentation.R;
-import me.liam.support.SupportFragment;
+import com.fragmentation.lib.support.SupportFragment;
 
 /**
  * Create on 2020/1/8.

@@ -14,7 +14,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 import me.liam.fragmentation.R;
-import me.liam.support.SupportFragment;
+import com.fragmentation.lib.support.SupportFragment;
 
 /**
  * Create on 2020/1/8.

@@ -6,14 +6,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import me.liam.anim.ClassicVerticalAnim;
+
 import me.liam.fragmentation.R;
-import me.liam.fragmentation.SignleFragment;
-import me.liam.support.SupportFragment;
+import com.fragmentation.lib.support.SupportFragment;
 
 /**
  * Created by Augustine on 2019/12/31.
